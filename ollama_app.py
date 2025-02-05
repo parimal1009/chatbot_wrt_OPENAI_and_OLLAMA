@@ -31,7 +31,7 @@ def generate_response(question,llm,temperature,max_tokens):
     return answer
 
 ## #Title of the app
-st.title("Enhanced Q&A Chatbot With OpenAI")
+st.title("Enhanced Q&A Chatbot With OLLAMA")
 
 
 ## Select the OpenAI model
